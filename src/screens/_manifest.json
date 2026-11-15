@@ -1,0 +1,37 @@
+{
+ "app": "Messenger Android UI Kit",
+ "start": "messenger-not-typing",
+ "screens": [
+  {
+   "slug": "messenger-not-typing",
+   "name": "messenger-not-typing",
+   "page": "Design Kit",
+   "w": 903,
+   "h": 1806,
+   "elements": 61,
+   "links": 1
+  },
+  {
+   "slug": "messenger-typing",
+   "name": "messenger-typing",
+   "page": "Design Kit",
+   "w": 903,
+   "h": 1806,
+   "elements": 141,
+   "links": 2
+  },
+  {
+   "slug": "photo-open",
+   "name": "photo-open",
+   "page": "Design Kit",
+   "w": 903,
+   "h": 1806,
+   "elements": 14,
+   "links": 2
+  }
+ ],
+ "warnings": [],
+ "fontPackages": [
+  "roboto"
+ ]
+}
